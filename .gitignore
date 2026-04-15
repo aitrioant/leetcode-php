@@ -1,0 +1,14 @@
+# Dependencias
+/vendor/
+
+# PhpStorm
+.idea/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+
+# Entornos
+.env
