@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-require __DIR__ . '/13/13.php';
-require __DIR__ . '/13/Samples.php';
+require __DIR__ . '/14/14.php';
+require __DIR__ . '/14/Samples.php';
 
-(new Problem13())->run();
+(new Problem14())->run();
