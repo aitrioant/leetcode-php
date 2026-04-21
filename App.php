@@ -1,7 +1,7 @@
-#!/usr/bin/env php
+#!/usr/bin/env -S php -dxdebug.mode=debug -dxdebug.start_with_request=yes
 <?php
 
-require __DIR__ . '/2/2.php';
-require __DIR__ . '/2/Samples.php';
+require __DIR__ . '/3/3.php';
+require __DIR__ . '/3/Samples.php';
 
-(new Problem2())->run();
+(new Problem3())->run();
